@@ -5,4 +5,4 @@
 - File shapefile (`Jabar.*`) - Peta Jawa Barat
 
 📊 **Dashboard online dapat diakses melalui tautan berikut:**
-🔗 *https://scrdsahboard.shinyapps.io/SCRDashboard/*
+🔗 *https://scrdashborad.shinyapps.io/SCRDashboard/*
