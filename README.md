@@ -1,6 +1,6 @@
 📁 **File dalam Repository:**
-- `Spatial Clustering.R` - Script analisis spasial clustering
-- `Dashboard Skripsi.R` - Script dashboard
+- `Spatial Clustering.R` - Syntax analisis spasial clustering
+- `Dashboard Skripsi.R` - Syntax dashboard
 - `Data Regresi.xlsx` - Dataset
 - File shapefile (`Jabar.*`) - Peta Jawa Barat
 
