@@ -8,3 +8,4 @@
 - `Dashboard Skripsi.R` - Syntax dashboard
 - `Matriks Jarak Euclidean.xlsx` - Matriks jarak euclidean dari tingkat kemiskinan
 - `Matriks Pembobot Spasial.xlsx` - Matriks pembobot spasial kabupaten/kota di Provinsi Jawa Barat (di dalam file terdiri dari matriks unstandardized & standardized)
+- `Nilai Cook's Distance.xlsx` - Nilai Cook's Distance seluruh kabupaten/kota di Provinsi Jawa Barat yang nantinya digunakan untuk mengidentifikasi pencilan
